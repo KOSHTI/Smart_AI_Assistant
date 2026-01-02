@@ -4,25 +4,25 @@ This project is a dynamic and responsive chat application built with React, desi
 
 ## Features
 
-- **AI Conversation**: Engage in real-time, intelligent conversations powered by the Gemini model.
-- **Chat History Persistence**: Maintains the complete conversation history during the session for context.
-- **Message Editing**: Allows users to edit their previous questions, triggering a new, contextual response from the AI.
-- **Content Formatting**: AI responses are processed to handle Markdown, supporting features like headers, lists, and basic text styling.
-- **Code Display**: Code blocks within AI responses are clearly formatted.
-- **Dark Mode**: A user-toggleable theme switch is available for preference, ensuring comfortable viewing in different light conditions.
-- **Clipboard Functionality**: A button allows users to easily copy the AI's generated response text.
-- **Responsive Design**: Optimized layout for seamless use across various screen sizes (mobile, tablet, desktop).
-- **Scroll Management**: Includes auto-scrolling to the latest message and a manual "Scroll to Bottom" button for navigating long chats.
+- **AI Conversation:** Engage in real-time, intelligent conversations powered by the Gemini model.
+- **Chat History Persistence:** Maintains the complete conversation history during the session for context.
+- **Message Editing:** Allows users to edit their previous questions, triggering a new, contextual response from the AI.
+- **Content Formatting:** AI responses are processed to handle Markdown, supporting features like headers, lists, and basic text styling.
+- **Code Display:** Code blocks within AI responses are clearly formatted.
+- **Dark Mode:** A user-toggleable theme switch is available for preference, ensuring comfortable viewing in different light conditions.
+- **Clipboard Functionality:** A button allows users to easily copy the AI's generated response text.
+- **Responsive Design:** Optimized layout for seamless use across various screen sizes (mobile, tablet, desktop).
+- **Scroll Management:** Includes auto-scrolling to the latest message and a manual "Scroll to Bottom" button for navigating long chats.
 
 ## Technologies Used
 
 This application is built using a modern React stack with a focus on client-side logic and custom styling.
 
-- **Frontend Framework**: React (with JSX)
-- **Styling**: Custom CSS for a unique look and feel, including theme management.
-- **API Client**: Axios for making asynchronous HTTP requests to the Gemini API.
-- **Build Tool**: Vite for fast development and bundling.
-- **API**: Google Gemini API for all natural language processing and generation tasks.
+- **Frontend Framework:** React (with JSX)
+- **Styling:** Custom CSS for a unique look and feel, including theme management.
+- **API Client:** Axios for making asynchronous HTTP requests to the Gemini API.
+- **Build Tool:** Vite for fast development and bundling.
+- **API:** Google Gemini API for all natural language processing and generation tasks.
 
 ## Project Structure
 
